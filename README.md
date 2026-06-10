@@ -3,8 +3,8 @@
 Personal developer portfolio showcasing full stack projects, cloud-deployed systems, and backend engineering work.
 
 ## Live Demo
-[
-https://piyush-warule.vercel.app/](https://piyush-warule-portfolio.vercel.app)
+
+https://piyush-warule-portfolio.vercel.app
 
 ## Features
 
